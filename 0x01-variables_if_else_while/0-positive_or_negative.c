@@ -5,7 +5,7 @@
 
 /* betty style doc for function main goes there */
 
-/* main tells if the number is positive or negative */
+/* main - tells if the number is positive or negative */
 
 /* Return: goes for 0 success */
 
