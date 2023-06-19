@@ -1,12 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/** 
+/**
  * main - entry level
  *
  * more headers goes there
  *
- * Return - o success
+ * Return: - o success
  *
  * betty style doc for function main goes there
  */
@@ -14,6 +14,7 @@ int main(void)
 {
 	int n;
 	int last_digit;
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
