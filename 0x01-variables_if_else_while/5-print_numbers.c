@@ -1,5 +1,4 @@
-nclude <stdio.h>
-
+#include <stdio.h>
 /**
  * main - Numbers from 0 to 9.
  *
