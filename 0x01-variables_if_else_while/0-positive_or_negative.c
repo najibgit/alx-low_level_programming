@@ -9,13 +9,13 @@
 
 /* Return: goes for 0 success */
 
-int main(void)     /* main log */
+int main(void)     /* main - log */
 {
 	int n;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	/* your code goes there */
+	/* main - your code goes there */
 	if (n == 0)
 	{
 		printf("%d is zero\n", n);
