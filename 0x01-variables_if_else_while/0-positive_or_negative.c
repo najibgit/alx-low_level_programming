@@ -1,13 +1,15 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*more headers goes there */
-
-/* betty style doc for function main goes there */
-
-/* Main - Tells if the number is positive or negative */
-
-/* Return: goes for 0 success */
+/** 
+ * main - Entry point 
+ *
+ * more headers goes there 
+ *
+ * betty style doc for function main goes there
+ *
+ * Return: goes for 0 success
+ */
 
 int main(void)     /* main - log */
 {
